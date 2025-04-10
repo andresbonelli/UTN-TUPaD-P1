@@ -2,7 +2,7 @@
 #                                                               #
 #  TUPaD - Programacion I                                       #
 #  Alumno: ANDRES BONELLI                                       #
-#  Práctico 4: Estructuras repetitivas                       #
+#  Práctico 4: Estructuras repetitivas                          #
 #                                                               #
 #################################################################
 
